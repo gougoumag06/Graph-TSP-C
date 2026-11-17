@@ -1,0 +1,1321 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le chantier + L'Amaryllis + La Notte + Bar'Hic",
+              "description": "Longitude : -1.68657200 latitude : 48.11254400"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68667270,48.11241080]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le gazoline + Cactus Café + Le P'tit Vélo + Le p'tit coin + Les 3 couleurs",
+              "description": "Longitude : -1.68541040 latitude : 48.11228730"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68641160,48.11195300]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Checkpoint Bar + Au Coin des Mondes",
+              "description": "Longitude : -1.68323700 latitude : 48.11724520"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68310250,48.11728810]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Combi Bar + La Fée Verte",
+              "description": "Longitude : -1.68541000 latitude : 48.11773410"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68550210,48.11785330]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Upper place + Chez nous + Le Caveau du Chapitre + Peacock",
+              "description": "Longitude : -1.68092290 latitude : 48.11267260"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68445740,48.11011660]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "L'Heure du Jeu",
+              "description": "Longitude : -1.68862160 latitude : 48.11875980"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68889600,48.11870020]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Vincennes",
+              "description": "Longitude : -1.68968590 latitude : 48.11811370"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68945170,48.11806930]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Les cousins germains + Le Saint-Germain",
+              "description": "Longitude : -1.67583470 latitude : 48.11061350"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67433890,48.11065340]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Papier Timbré",
+              "description": "Longitude : -1.68458620 latitude : 48.11520040"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68763850,48.11544340]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Sur Mesure",
+              "description": "Longitude : -1.67752300 latitude : 48.11711240"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67773190,48.11727140]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le p'tit bar + Ty Anna + Monsieur Le Zinc + Le Bar de la Plage + L'Annexe",
+              "description": "Longitude : -1.68137760 latitude : 48.11467650"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68101510,48.11716110]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "La Cour + Black Bear + La Trinquette + Doujezu + Le Pignom",
+              "description": "Longitude : -1.68073010 latitude : 48.11393080"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68083670,48.11716570]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Café des Champs Libres",
+              "description": "Longitude : -1.67527670 latitude : 48.10490430"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67502770,48.10548180]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Les Grands Gamins",
+              "description": "Longitude : -1.68969030 latitude : 48.10973720"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68982550,48.10963770]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Balzac",
+              "description": "Longitude : -1.67739240 latitude : 48.10407370"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67734170,48.10433470]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Beret",
+              "description": "Longitude : -1.67551820 latitude : 48.10759770"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67541980,48.10751210]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Mille Potes",
+              "description": "Longitude : -1.67567570 latitude : 48.10759260"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67557800,48.10742940]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le 23",
+              "description": "Longitude : -1.67189700 latitude : 48.10726590"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67200310,48.10737230]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Funky Munky + L'Été Indien",
+              "description": "Longitude : -1.67544990 latitude : 48.11484750"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67443360,48.11467340]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Yermat",
+              "description": "Longitude : -1.69036770 latitude : 48.10536730"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.69053430,48.10522620]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Nakama",
+              "description": "Longitude : -1.66995610 latitude : 48.11074830"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.66956970,48.11083950]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Progrès",
+              "description": "Longitude : -1.68088970 latitude : 48.10930210"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68197110,48.10794130]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Coin Mousse",
+              "description": "Longitude : -1.68678490 latitude : 48.11037290"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68649150,48.11003310]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "L'Equinoxe + Le Scoop + Le Zing",
+              "description": "Longitude : -1.68204690 latitude : 48.11334240"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68662710,48.11232080]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Tivoli + The Penny Lane",
+              "description": "Longitude : -1.67604540 latitude : 48.11188610"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67510070,48.11194330]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Since 42 + Rewined",
+              "description": "Longitude : -1.68291140 latitude : 48.10866570"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68308690,48.10828670]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Delta + Le Vieux Saint-Étienne",
+              "description": "Longitude : -1.68417710 latitude : 48.11761890"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68351620,48.11738910]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "La Place",
+              "description": "Longitude : -1.68067830 latitude : 48.11291490"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67517120,48.11241490]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "La Bascule Ubuntu Café",
+              "description": "Longitude : -1.69311470 latitude : 48.11410830"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.69307860,48.11399710]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Milk Lounge",
+              "description": "Longitude : -1.67951520 latitude : 48.10493140"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67927320,48.10400520]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Hibou Grand Duc",
+              "description": "Longitude : -1.67273200 latitude : 48.10929000"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67282580,48.10938140]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Mod Koz",
+              "description": "Longitude : -1.67327920 latitude : 48.10888790"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67323180,48.10878420]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Nabuchodonosor",
+              "description": "Longitude : -1.67724000 latitude : 48.11323090"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67508020,48.11353000]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Pharaon + Le Mange Disque",
+              "description": "Longitude : -1.67797040 latitude : 48.10823120"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67782060,48.10747970]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le petit Bacchus",
+              "description": "Longitude : -1.67637550 latitude : 48.10843850"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67613040,48.10749490]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Klub",
+              "description": "Longitude : -1.67560930 latitude : 48.10978510"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67410820,48.10992490]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Tio Paquito",
+              "description": "Longitude : -1.68115270 latitude : 48.11304350"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68619400,48.11160020]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Melody Nelson",
+              "description": "Longitude : -1.67588340 latitude : 48.10835220"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67606690,48.10749820]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Onolulu",
+              "description": "Longitude : -1.67798820 latitude : 48.10673150"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67779140,48.10642930]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Café Jules + Barex'po",
+              "description": "Longitude : -1.67902050 latitude : 48.10823780"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67911720,48.10746400]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "L'Heure du Jeu",
+              "description": "Longitude : -1.67402410 latitude : 48.10632200"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67408190,48.10606580]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "La Piste",
+              "description": "Longitude : -1.69370420 latitude : 48.10883210"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.69358960,48.10880680]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Là-bas Jour",
+              "description": "Longitude : -1.66996130 latitude : 48.10885400"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.66980830,48.10887810]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Le Hangar",
+              "description": "Longitude : -1.68547700 latitude : 48.11338750"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68720530,48.11365480]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "La Ruche",
+              "description": "Longitude : -1.67891810 latitude : 48.11544420"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.67829980,48.11734690]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "La Cavale",
+              "description": "Longitude : -1.68703440 latitude : 48.10681460"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68684470,48.10684090]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "_umap_options": {
+                  "color": "Purple",
+                  "weight": 6,
+                   "iconClass": "Drop"
+               },
+              "name": "Amrok",
+              "description": "Longitude : -1.68932580 latitude : 48.11235240"
+         },
+         "geometry": {
+              "type": "Point",
+              "coordinates" : [-1.68913550,48.11176120]
+         }
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 0 to 23"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68667270,48.11241080],[-1.68662710,48.11232080]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 23 to 1"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68662710,48.11232080],[-1.68641160,48.11195300]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 1 to 36"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68641160,48.11195300],[-1.68619400,48.11160020]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 36 to 43"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68619400,48.11160020],[-1.68641160,48.11195300],[-1.68662710,48.11232080],[-1.68667270,48.11241080],[-1.68720530,48.11365480]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 43 to 46"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68720530,48.11365480],[-1.68667270,48.11241080],[-1.68674040,48.11240160],[-1.68716340,48.11235130],[-1.68722630,48.11233880],[-1.68720480,48.11228840],[-1.68718980,48.11225190],[-1.68733050,48.11222560],[-1.68913550,48.11176120]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 46 to 28"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68913550,48.11176120],[-1.68992150,48.11155190],[-1.69007990,48.11151110],[-1.69045520,48.11141720],[-1.69083570,48.11147330],[-1.69125880,48.11178290],[-1.69138960,48.11189620],[-1.69144200,48.11194310],[-1.69174290,48.11217700],[-1.69186910,48.11228350],[-1.69199230,48.11238100],[-1.69209720,48.11246430],[-1.69268200,48.11269090],[-1.69318950,48.11271080],[-1.69338540,48.11269020],[-1.69342110,48.11282980],[-1.69307860,48.11399710]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 28 to 6"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.69307860,48.11399710],[-1.69245510,48.11468640],[-1.69214900,48.11502980],[-1.69141020,48.11587670],[-1.69098950,48.11633310],[-1.69068320,48.11667750],[-1.69051420,48.11686760],[-1.69034310,48.11706240],[-1.68995860,48.11749590],[-1.68975820,48.11772540],[-1.68945170,48.11806930]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 6 to 5"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68945170,48.11806930],[-1.68921120,48.11833620],[-1.68899020,48.11858130],[-1.68893990,48.11864470],[-1.68889600,48.11870020]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 5 to 3"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68889600,48.11870020],[-1.68670120,48.11816900],[-1.68660860,48.11814300],[-1.68611430,48.11799830],[-1.68603190,48.11798140],[-1.68561000,48.11787750],[-1.68556720,48.11786860],[-1.68550210,48.11785330]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 3 to 26"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68550210,48.11785330],[-1.68351620,48.11738910]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 26 to 2"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68351620,48.11738910],[-1.68310250,48.11728810]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 2 to 10"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68310250,48.11728810],[-1.68101510,48.11716110]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 10 to 11"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68101510,48.11716110],[-1.68083670,48.11716570]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 11 to 44"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68083670,48.11716570],[-1.67829980,48.11734690]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 44 to 9"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67829980,48.11734690],[-1.67773190,48.11727140]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 9 to 18"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67773190,48.11727140],[-1.67652910,48.11712620],[-1.67563780,48.11702580],[-1.67511530,48.11684630],[-1.67414960,48.11648930],[-1.67417540,48.11604720],[-1.67440180,48.11491150],[-1.67443360,48.11467340]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 18 to 32"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67443360,48.11467340],[-1.67446680,48.11453900],[-1.67508020,48.11353000]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 32 to 27"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67508020,48.11353000],[-1.67517120,48.11241490]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 27 to 24"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67517120,48.11241490],[-1.67510070,48.11194330]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 24 to 7"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67510070,48.11194330],[-1.67491820,48.11163520],[-1.67475270,48.11136540],[-1.67433890,48.11065340]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 7 to 35"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67433890,48.11065340],[-1.67419310,48.11020180],[-1.67417370,48.11015830],[-1.67410820,48.10992490]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 35 to 30"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67410820,48.10992490],[-1.67409620,48.10988160],[-1.67400500,48.10968870],[-1.67392000,48.10937940],[-1.67341770,48.10937870],[-1.67282580,48.10938140]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 30 to 31"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67282580,48.10938140],[-1.67281620,48.10870410],[-1.67323180,48.10878420]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 31 to 17"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67323180,48.10878420],[-1.67281620,48.10870410],[-1.67174700,48.10826710],[-1.67201320,48.10743170],[-1.67200310,48.10737230]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 17 to 20"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67200310,48.10737230],[-1.67201320,48.10743170],[-1.67174700,48.10826710],[-1.67281620,48.10870410],[-1.67282580,48.10938140],[-1.67283310,48.10989760],[-1.67230960,48.10988780],[-1.67210690,48.10988830],[-1.67155030,48.10989070],[-1.67130380,48.10988900],[-1.67095820,48.10989000],[-1.67061510,48.10986610],[-1.66954640,48.10987040],[-1.66955450,48.11024520],[-1.66956540,48.11065260],[-1.66956970,48.11083950]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 20 to 42"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.66956970,48.11083950],[-1.66956540,48.11065260],[-1.66955450,48.11024520],[-1.66954640,48.10987040],[-1.67061510,48.10986610],[-1.67095820,48.10989000],[-1.67130380,48.10988900],[-1.67155030,48.10989070],[-1.67136830,48.10935900],[-1.67129910,48.10933020],[-1.66980830,48.10887810]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 42 to 40"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.66980830,48.10887810],[-1.67129910,48.10933020],[-1.67136830,48.10935900],[-1.67192660,48.10939090],[-1.67209610,48.10939030],[-1.67282580,48.10938140],[-1.67281620,48.10870410],[-1.67323180,48.10878420],[-1.67373600,48.10870550],[-1.67367150,48.10846620],[-1.67347550,48.10791870],[-1.67344150,48.10779220],[-1.67334840,48.10745610],[-1.67331940,48.10734580],[-1.67334780,48.10728850],[-1.67327690,48.10704370],[-1.67393340,48.10693110],[-1.67435850,48.10688470],[-1.67408190,48.10606580]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 40 to 12"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67408190,48.10606580],[-1.67397330,48.10569330],[-1.67395650,48.10564260],[-1.67502770,48.10548180]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 12 to 14"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67502770,48.10548180],[-1.67687540,48.10521580],[-1.67747750,48.10512920],[-1.67746820,48.10508820],[-1.67728570,48.10449680],[-1.67727180,48.10443410],[-1.67735850,48.10442130],[-1.67734170,48.10433470]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 14 to 29"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67734170,48.10433470],[-1.67735850,48.10442130],[-1.67739350,48.10445940],[-1.67790860,48.10438520],[-1.67899490,48.10404050],[-1.67927320,48.10400520]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 29 to 38"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67927320,48.10400520],[-1.67899490,48.10404050],[-1.67790860,48.10438520],[-1.67739350,48.10445940],[-1.67738460,48.10448310],[-1.67758530,48.10511330],[-1.67758650,48.10511880],[-1.67771270,48.10593910],[-1.67779140,48.10642930]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 38 to 39"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67779140,48.10642930],[-1.67778480,48.10738990],[-1.67846410,48.10741340],[-1.67910490,48.10741010],[-1.67911430,48.10743280],[-1.67911720,48.10746400]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 39 to 33"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67911720,48.10746400],[-1.67782060,48.10747970]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 33 to 34"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67782060,48.10747970],[-1.67705690,48.10748620],[-1.67613040,48.10749490]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 34 to 37"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67613040,48.10749490],[-1.67606690,48.10749820]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 37 to 15"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67606690,48.10749820],[-1.67541980,48.10751210]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 15 to 16"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67541980,48.10751210],[-1.67542790,48.10743130],[-1.67557800,48.10742940]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 16 to 25"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.67557800,48.10742940],[-1.67606040,48.10742310],[-1.67639860,48.10742300],[-1.67718670,48.10741430],[-1.67766550,48.10739060],[-1.67778480,48.10738990],[-1.67846410,48.10741340],[-1.67910490,48.10741010],[-1.67911430,48.10743280],[-1.67911720,48.10746400],[-1.68027510,48.10746750],[-1.68197110,48.10794130],[-1.68308690,48.10828670]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 25 to 21"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68308690,48.10828670],[-1.68197110,48.10794130]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 21 to 45"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68197110,48.10794130],[-1.68199660,48.10789410],[-1.68297990,48.10818270],[-1.68446030,48.10672240],[-1.68452240,48.10657360],[-1.68650030,48.10677560],[-1.68674710,48.10675930],[-1.68684470,48.10684090]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 45 to 19"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68684470,48.10684090],[-1.68700490,48.10667910],[-1.68805040,48.10615620],[-1.68878630,48.10581980],[-1.69053430,48.10522620]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 19 to 41"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.69053430,48.10522620],[-1.69020300,48.10606260],[-1.69077190,48.10609320],[-1.69212660,48.10615720],[-1.69273750,48.10618880],[-1.69312000,48.10620920],[-1.69323920,48.10623200],[-1.69328670,48.10624050],[-1.69327620,48.10631790],[-1.69322260,48.10674440],[-1.69319630,48.10696250],[-1.69310890,48.10766960],[-1.69310170,48.10772930],[-1.69305630,48.10804170],[-1.69304230,48.10813570],[-1.69299860,48.10842620],[-1.69297600,48.10858120],[-1.69341880,48.10848140],[-1.69357760,48.10878330],[-1.69358960,48.10880680]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 41 to 13"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.69358960,48.10880680],[-1.69357760,48.10878330],[-1.69341880,48.10848140],[-1.69297600,48.10858120],[-1.69186240,48.10882910],[-1.69095190,48.10903690],[-1.69073250,48.10908770],[-1.69045620,48.10914610],[-1.68982730,48.10932880],[-1.68982550,48.10963770]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 13 to 22"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68982550,48.10963770],[-1.68982730,48.10932880],[-1.68964400,48.10932670],[-1.68920710,48.10942210],[-1.68649150,48.11003310]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 22 to 4"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68649150,48.11003310],[-1.68622450,48.11017760],[-1.68553490,48.11022330],[-1.68456940,48.11014250],[-1.68445740,48.11011660]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 4 to 8"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68445740,48.11011660],[-1.68456940,48.11014250],[-1.68553490,48.11022330],[-1.68572670,48.11056240],[-1.68574890,48.11071560],[-1.68599900,48.11120660],[-1.68619400,48.11160020],[-1.68641160,48.11195300],[-1.68662710,48.11232080],[-1.68667270,48.11241080],[-1.68674040,48.11240160],[-1.68716340,48.11235130],[-1.68722630,48.11233880],[-1.68736340,48.11259300],[-1.68764890,48.11306890],[-1.68759140,48.11319930],[-1.68788290,48.11379430],[-1.68803890,48.11475700],[-1.68790150,48.11501460],[-1.68763850,48.11544340]
+              ] 
+         } 
+     },
+     {
+         "type": "Feature",
+         "properties": { 
+              "name": "TSP From 8 to 0"
+         },
+         "geometry": {
+              "type": "LineString",
+              "coordinates" : [
+                  [-1.68763850,48.11544340],[-1.68790150,48.11501460],[-1.68803890,48.11475700],[-1.68788290,48.11379430],[-1.68759140,48.11319930],[-1.68764890,48.11306890],[-1.68736340,48.11259300],[-1.68722630,48.11233880],[-1.68716340,48.11235130],[-1.68674040,48.11240160],[-1.68667270,48.11241080]
+              ] 
+         } 
+     }
+  ]
+}

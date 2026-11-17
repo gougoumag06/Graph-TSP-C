@@ -1,0 +1,60 @@
+
+critere = {
+//     "shop", "convenience", "bakery", "supermarket", "greengrocer", "butcher", 
+//     "deli", "beverages", "confectionery", "pastry", "seafood", "dairy", 
+//     "chocolate", "cheese", "coffee", "tea", "alcohol", "wine", "grocery", 
+//     "food", "convenience;gas", "chocolate;pastry;confectionery", "organic", 
+//     "cannery"
+//     "clothes", "shoes", "gift", "electronics", "furniture", "toys", "books", 
+//     "florist", "chemist", "mobile_phone", "second_hand", "optician", "boutique", 
+//     "antiques", "hifi", "jewelry", "hardware", "stationery", "video", "cosmetics", 
+//     "carpet", "fabric", "tobacco", "newsagent", "doityourself", "garden_centre", 
+//     "pet", "department_store", "mall", "retail", "musical_instrument", 
+//     "medical_supply", "variety_store", "e-cigarette", "leather", "houseware", 
+//     "appliance"
+//     "natural", "wood", "water", "tree", "beach", "rock", "bare_rock", "crater", 
+//     "bay", "island", "islet", "cliff", "waterfall", "spring", "peak", "volcano", 
+//     "cape", "cave_entrance", "gorge", "wetland", "reef", "dune", "forest", "hill", 
+//     "valley", "mountain_pass", "saddle", "hot_spring", "glacier", "sand", "scrub", 
+//     "cave", "landuse", "greenfield", "rocks", "couloir", "farmland", "meadow", 
+//     "heath", "grassland", "canyon", "plateau", "sinkhole", "peninsula"
+//     "tourism", "heritage", "historic", "memorial", "museum", "wayside_shrine", 
+//     "monument", "ruins", "castle", "artwork", "tomb", "lighthouse", "obelisk", 
+//     "gallery", "battlefield", "monastery", "abbey", "archaeological_site", 
+//     "theme_park", "zoo", "viewpoint", "information", "attraction", "city_gate", 
+//     "fort", "manor", "statue", "tumulus", "watermill", "windmill", 
+//     "technical_monument", "ship", "cannon", "former_church", "chapel", 
+//     "monument historique", "palaeontological_site"
+//     "hotel", "guest_house", "chalet", "hostel", "motel", "apartment", "camp_site", 
+//     "caravan_site", "alpine_hut", "wilderness_hut", "bed_and_breakfast", "resort", 
+//     "camping", "beach_resort", "summer_camp", "villa", "house"
+//     "leisure", "swimming_pool", "sports_centre", "horse_riding", "water_park", 
+//     "park", "golf_course", "miniature_golf", "fitness_centre", "ice_rink", 
+//     "bowling", "escape_game", "stadium", "playground", "picnic_site", "garden", 
+//     "fishing", "outdoor", "pitch", "dance", "sauna", "bathing", "sports_hall", 
+//     "recreation_ground", "dog_park", "fitness_station", "beach", "arenas", 
+//     "club", "adventure_park"
+//     "highway", "bridge", "junction", "railway", "tunnel", "waterway", 
+//     "motorway_junction", "bus_stop", "level_crossing", "tram_stop", "platform", 
+//     "station", "halt", "traffic_signals", "switch", "gas", "car_repair", 
+//     "mini_roundabout", "subway_entrance", "airfield", "car", "slipway", 
+//     "crossing", "roundabout", "street_lamp", "viaduct", "canal", "cycleway", 
+//     "footway", "path", "taxi", "truck", "raceway", "aircraft", "boat"
+//     "craft", "man_made", "industrial", "works", "brewery", "carpenter", "tailor", 
+//     "shoemaker", "blacksmith", "pottery", "painter", "photographer", "electrician", 
+//     "plumber", "jeweller", "builder", "tinsmith", "glaziery", "tiler", 
+//     "cabinet_maker", "sculptor", "joiner", "stonemason", "turner", "floorer", 
+//     "basket_maker", "clockmaker", "dressmaker", "lock_gate", "distillery", 
+//     "sawmill", "printmaker", "gardener", "watchmaker", "upholsterer", 
+//     "organ_builder", "glassblower"
+//     "emergency", "office", "government", "boundary", "hospital", "school", 
+//     "police", "ambulance_station", "shelter", "restaurant", "cafe", "bar", 
+//     "insurance", "estate_agent", "company", "travel_agency", "laundry", "ngo", 
+//     "association", "defibrillator", "accountant", "funeral_directors", "lawyer", 
+//     "physician", "therapist", "medical", "educational_institution", 
+//     "nursing_service", "dentist", "veterinary", "security", "tax", "financial", 
+//     "print_shop", "temporary_work", "architect","proposed", 
+//     "abandoned", "razed", "local", "general", "attempt", "limited", 
+//     "Bain,_wellness,_espaces_de_d├®tente,_cours_sportifs_et_conseils", 
+//     "Auto-├®cole", "Inscription <br /> Classement", "1;3", "yes;attraction"
+// };

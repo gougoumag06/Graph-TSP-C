@@ -1,0 +1,23 @@
+# Build
+_bin/
+_build_vs/
+_build_linux/
+out/
+_out/
+build/
+test_graph
+*.exe
+
+# Fichier trop volumineux (>100 Mo sur GitHub)
+data/BonusData/poi.csv
+
+# IDE
+.vs/
+*.user
+*.suo
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+

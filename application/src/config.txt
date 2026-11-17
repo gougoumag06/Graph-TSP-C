@@ -1,0 +1,70 @@
+#config.txt
+# Attention : Ne pas laisser d'espaces superflus autour du signe '='.
+# Les lignes commençant par '#' sont des commentaires et sont ignorées.
+
+# chemin des fichier 
+# Vous devez choisir les fichiers correspondants à la région de la ville testée.
+#
+# Options disponibles :
+# - Pays de la Loire :
+#     GRAPH_PATH=../data/tp_final/pays-de-la-loire_graph.txt
+#     GPS_PATH=../data/tp_final/pays-de-la-loire_inter.txt
+# - Bretagne :
+#     GRAPH_PATH=../data/tp_final/bretagne_graph.txt
+#     GPS_PATH=../data/tp_final/bretagne_inter.txt
+# - Ile de France :
+#     GRAPH_PATH=../data/tp_final/ile-de-france_graph.txt
+#     GPS_PATH=../data/tp_final/ile-de-france_inter.txt
+
+GRAPH_PATH=../data/tp_final/bretagne_graph.txt
+GPS_PATH=../data/tp_final/bretagne_inter.txt
+
+
+#choix de la ville a traite 
+# Le nom de la ville doit être écrit EXACTEMENT comme dans le fichier des communes (en MAJUSCULES).
+#
+# Exemples de couples valides configurés :
+# - VILLE_NOM=LAVAL        et  CODE_POSTAL=53000
+# - VILLE_NOM=NANTES       et  CODE_POSTAL=44000
+# - VILLE_NOM=RENNES       et  CODE_POSTAL=35000
+# - VILLE_NOM=BREST        et  CODE_POSTAL=29200
+# - VILLE_NOM=PARIS 01     et  CODE_POSTAL=75001
+# - VILLE_NOM=VERSAILLES   et  CODE_POSTAL=78000
+
+VILLE_NOM=RENNES
+CODE_POSTAL=35000
+
+
+# critere que nous voulons traite
+# Valeurs recommandées : bar mais il existe aussi : restaurant,swimming_pool,fitness_station,taxi,hostel,camping,
+#voir grah/bonus/donne.txt si vous en vouler plus de critere 
+
+CRITERE=bar
+
+
+#rayon de recherche
+# Nombre décimal spécifiant la distance maximale de recherche (ex: 0.5, 1.0, 2.0).
+# Rester dans le raisonnable :)
+
+RAYON=1.0
+
+# choix de l option entre 1 et 4
+# 1 : Tournée des bars 
+# 2 : Ville avec le plus de bar dans une regions + tournee bar
+# 3 : GraphRoutier, affiche tous le graph sur moodle
+# 4 ; récupère 3 critères et trouve ces 3 critères les plus proches
+
+OPTIONS=2
+
+# --- Parametres Regionaux (Option 2) ---
+#Île-de-France, Bretagne, Pays de la Loire
+REGION_NOM=Bretagne
+
+#limite de temps pour le traitement (en secondes) pour la recherche de la capitale de la biere en fonction de la region choisie mettre -1 pour ne pas limiter le temps de traitement
+
+TIME_LIMIT=30.0
+
+# --- Critère choisis (Option 4) ---
+CRITERE_1=swimming_pool
+CRITERE_2=bar
+CRITERE_3=fitness_station
